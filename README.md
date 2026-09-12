@@ -1,6 +1,6 @@
 # Hello World!, I'm Shreyas 👋
-📗 Comp Sci @ University of Minnesota 28'  
-👨‍💻 SWE Intern @ RSquareSoft - June 2025 to August 2025  
+📗 **Comp Sci** @ University of Minnesota 28'  
+👨‍💻 **SWE Intern** @ RSquareSoft - June 2025 to August 2025  
 💻 Hobbies - Homelab, Rock Climbing, OSU!
 
 ## 🌐 Socials:
